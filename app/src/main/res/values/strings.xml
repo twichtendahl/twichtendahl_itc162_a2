@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assignment 2</string>
+    <string name="app_name">Message Processoroid</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="text_edit_label">Enter a phrase here:</string>
